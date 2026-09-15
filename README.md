@@ -51,19 +51,19 @@ The analysis was visualized using Power BI to provide an interactive view of sal
 
 Based on the dashboard:
 
-Regular-fat products contribute a larger share of total sales
+- Regular-fat products contribute a larger share of total sales
 compared with Low Fat products.
 
-Fruits & Vegetables and Snack Foods are among the
+- Fruits & Vegetables and Snack Foods are among the
 highest-selling item categories.
 
-Tier 3 outlets generate the highest sales among the outlet
+- Tier 3 outlets generate the highest sales among the outlet
 location types.
 
-Supermarket Type1 has the highest total sales among the outlet
+- Supermarket Type1 has the highest total sales among the outlet
 types shown.
 
-Outlet sales vary across establishment years, with a notable peak
+- Outlet sales vary across establishment years, with a notable peak
 around 2018.
 
 ## 📚 Skills Demonstrated
