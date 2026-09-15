@@ -5,14 +5,12 @@ Blinkit Sales Analysis using SQL and Power BI to evaluate sales performance, pro
 To analyze Blinkit's sales performance across products, fat content,
 outlet characteristics, and locations using SQL and Power BI.
 
-📊 Key KPIs
+## 📊 Key KPIs
 
-KPI                   Value
-
-Total Sales         $1.20M
-Average Sales         $141
-Number of Items       8,523
-Average Rating          3.9
+- Total Sales
+- Average Sales
+- Number of Items
+- Average Rating
 
 🔍 Analysis Performed
 
