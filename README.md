@@ -47,6 +47,25 @@ For example, variations such as `LF`, `low fat`, and `Low Fat` were standardized
 
 The analysis was visualized using Power BI to provide an interactive view of sales performance across different product and outlet dimensions.
 
+Dashboard Includes
+
+Total Sales, Average Sales, Number of Items, and Average Rating
+
+Sales comparison by Fat Content
+
+Sales by Item Type
+
+Sales by Outlet Establishment Year
+
+Sales by Outlet Size
+
+Sales by Outlet Location
+
+Outlet Type performance
+
+Interactive filters for Outlet Location, Outlet Size, and Outlet
+Type
+
 ## 💡 Key Insights
 
 Based on the dashboard:
