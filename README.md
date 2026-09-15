@@ -7,10 +7,10 @@ outlet characteristics, and locations using SQL and Power BI.
 
 ## 📊 Key KPIs
 
-- Total Sales
-- Average Sales
-- Number of Items
-- Average Rating
+- Total Sales      - $1.20M
+- Average Sales    - $141
+- Number of Items  - 8,523
+- Average Rating   - 3.9
 
 🔍 Analysis Performed
 
