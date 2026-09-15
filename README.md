@@ -8,6 +8,7 @@ outlet characteristics, and locations using SQL and Power BI.
 📊 Key KPIs
 
 KPI                   Value
+
 Total Sales         $1.20M
 Average Sales         $141
 Number of Items       8,523
