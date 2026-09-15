@@ -76,3 +76,9 @@ around 2018.
 - Power BI Visualization
 - Business Intelligence
 - Data-Driven Insights
+
+👨‍💻 Author
+
+Alok Kumar Singh
+
+Aspiring Data Analyst
