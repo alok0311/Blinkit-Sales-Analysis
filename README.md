@@ -1,117 +1,70 @@
 # Blinkit-Sales-Analysis
 Blinkit Sales Analysis using SQL and Power BI to evaluate sales performance, product trends, outlet performance, and key business KPIs.
-🎯 Business Objective
 
-To analyze Blinkit's sales performance across products, fat content,
-outlet characteristics, and locations using SQL and Power BI.
+## 📌 Project Overview
+
+This project analyzes Blinkit's sales data using SQL and Power BI to understand sales performance, product trends, customer ratings, and outlet performance.
+
+The analysis focuses on key business KPIs and visualizations to identify trends and opportunities for improving sales and outlet performance.
+
+## 🎯 Business Objective
+
+To analyze Blinkit's sales performance and identify key insights across products, fat content, outlet characteristics, and locations using SQL and Power BI.
 
 ## 📊 Key KPIs
 
-- Total Sales      - $1.20M
-- Average Sales    - $141
-- Number of Items  - 8,523
-- Average Rating   - 3.9
+- Total Sales       - $1.20M
+- Average Sales     - $141
+- Number of Items   - 8,523
+- Average Rating    - 3.9
 
-🔍 Analysis Performed
+## 🔍 Analysis Performed
 
-Total Sales by Fat Content
+- Total Sales by Fat Content
+- Total Sales by Item Type
+- Sales by Outlet Location
+- Sales by Outlet Size
+- Sales by Outlet Establishment Year
+- Sales by Outlet Type
+- Key Metrics by Outlet Type
 
-Total Sales by Item Type
+## 🧹 Data Cleaning
 
-Sales by Outlet Location
+The dataset contained inconsistent values in categorical fields. SQL was used to standardize values before analysis.
 
-Sales by Outlet Size
+For example, variations such as `LF`, `low fat`, and `Low Fat` were standardized into a consistent `Low Fat` category.
 
-Sales by Outlet Establishment Year
+## 🛠️ Tools & Technologies
 
-Performance by Outlet Type
+- SQL
+- Power BI
+- Excel / CSV
+- Data Cleaning
+- Data Analysis
+- Data Visualization
 
-Key metrics across different outlet types
+## 📈 Dashboard
 
-🧹 Data Cleaning
+The analysis was visualized using Power BI to provide an interactive view of sales performance across different product and outlet dimensions.
 
-SQL was used to clean and standardize categorical data before analysis.
+## 💡 Key Insights
 
-For example, different values such as LF, low fat, and Low Fat
-were standardized into the Low Fat category to maintain consistency in
-analysis and reporting.
+The analysis helps identify:
 
-🛠️ Tools & Technologies
+- Product categories contributing to overall sales
+- Sales performance across different outlet types and sizes
+- Sales distribution by outlet location
+- Impact of fat content on sales
+- Performance trends based on outlet establishment year
+- Differences in key metrics across outlet types
 
-SQL
+## 📚 Skills Demonstrated
 
-Power BI
-
-Excel / CSV
-
-Data Cleaning
-
-Data Analysis
-
-Data Visualization
-
-📈 Power BI Dashboard
-
-The interactive Power BI dashboard provides an overview of Blinkit's
-sales performance through KPI cards, charts, filters, and outlet-level
-analysis.
-
-Dashboard Includes
-
-Total Sales, Average Sales, Number of Items, and Average Rating
-
-Sales comparison by Fat Content
-
-Sales by Item Type
-
-Sales by Outlet Establishment Year
-
-Sales by Outlet Size
-
-Sales by Outlet Location
-
-Outlet Type performance
-
-Interactive filters for Outlet Location, Outlet Size, and Outlet
-Type
-
-💡 Key Insights
-
-Based on the dashboard:
-
-Regular-fat products contribute a larger share of total sales
-compared with Low Fat products.
-
-Fruits & Vegetables and Snack Foods are among the
-highest-selling item categories.
-
-Tier 3 outlets generate the highest sales among the outlet
-location types.
-
-Supermarket Type1 has the highest total sales among the outlet
-types shown.
-
-Outlet sales vary across establishment years, with a notable peak
-around 2018.
-
-📚 Skills Demonstrated
-
-SQL Data Analysis
-
-Data Cleaning and Standardization
-
-Data Aggregation
-
-KPI Analysis
-
-Power BI Dashboard Development
-
-Data Visualization
-
-Business Insight Generation
-
-👨‍💻 Author
-
-Alok Kumar Singh
-
-Aspiring Data Analyst
+- SQL Data Analysis
+- Data Cleaning
+- Data Aggregation
+- Data Transformation
+- KPI Analysis
+- Power BI Visualization
+- Business Intelligence
+- Data-Driven Insights
