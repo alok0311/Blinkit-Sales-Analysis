@@ -49,21 +49,21 @@ The analysis was visualized using Power BI to provide an interactive view of sal
 
 Dashboard Includes
 
-Total Sales, Average Sales, Number of Items, and Average Rating
+- Total Sales, Average Sales, Number of Items, and Average Rating
 
-Sales comparison by Fat Content
+- Sales comparison by Fat Content
 
-Sales by Item Type
+- Sales by Item Type
 
-Sales by Outlet Establishment Year
+- Sales by Outlet Establishment Year
 
-Sales by Outlet Size
+- Sales by Outlet Size
 
-Sales by Outlet Location
+- Sales by Outlet Location
 
-Outlet Type performance
+- Outlet Type performance
 
-Interactive filters for Outlet Location, Outlet Size, and Outlet
+- Interactive filters for Outlet Location, Outlet Size, and Outlet
 Type
 
 ## 💡 Key Insights
