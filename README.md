@@ -49,14 +49,22 @@ The analysis was visualized using Power BI to provide an interactive view of sal
 
 ## 💡 Key Insights
 
-The analysis helps identify:
+Based on the dashboard:
 
-- Product categories contributing to overall sales
-- Sales performance across different outlet types and sizes
-- Sales distribution by outlet location
-- Impact of fat content on sales
-- Performance trends based on outlet establishment year
-- Differences in key metrics across outlet types
+Regular-fat products contribute a larger share of total sales
+compared with Low Fat products.
+
+Fruits & Vegetables and Snack Foods are among the
+highest-selling item categories.
+
+Tier 3 outlets generate the highest sales among the outlet
+location types.
+
+Supermarket Type1 has the highest total sales among the outlet
+types shown.
+
+Outlet sales vary across establishment years, with a notable peak
+around 2018.
 
 ## 📚 Skills Demonstrated
 
