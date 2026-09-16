@@ -1,9 +1,8 @@
 # Blinkit-Sales-Analysis
-Blinkit Sales Analysis using SQL and Power BI to evaluate sales performance, product trends, outlet performance, and key business KPIs.
 
 ## 📌 Project Overview
 
-This project analyzes Blinkit's sales data using SQL and Power BI to understand sales performance, product trends, customer ratings, and outlet performance.
+This project analyzes Blinkit's sales data using SQL and Power BI to understand sales performance, product trends, customer ratings,key business KPIs and outlet performance.
 
 The analysis focuses on key business KPIs and visualizations to identify trends and opportunities for improving sales and outlet performance.
 
